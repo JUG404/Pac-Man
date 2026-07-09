@@ -34,8 +34,8 @@ This project is a simple Java Swing program that imitates the PacMan character b
 
 ### Screenshots
 
-
-
+![Homepage](images/PacMan_Image_1.png)
+![Homepage](images/PacMan_Image_2.png)
 
 
 ### How It Works
